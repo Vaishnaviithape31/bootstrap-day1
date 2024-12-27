@@ -1,0 +1,34 @@
+.Join-btn {
+    background-color: lightgray;
+    color:black;
+    padding:10px 20px;
+    border-radius:20px;
+    border:none;
+    font-weight: bold;
+    opacity: 0.8;
+}
+.Join-btn:hover {
+    background-color: lightgray;
+    color:black;
+    padding:10px 20px;
+    border-radius:20px;
+    border:none;
+    font-weight: bold;
+    opacity:1;
+    cursor:pointer;
+}
+
+
+
+.get-it-now {
+    background-color: white;
+    color:rgb(46 95 212);
+    padding:10px 20px;
+    border-radius:20px;
+    border:1px solid rgb(46 95 212);
+}
+
+.get-it-now-btn:hover {
+     background-color:lightgrey ;
+     cursor:pointer;
+}

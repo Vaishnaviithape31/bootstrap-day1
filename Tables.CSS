@@ -1,0 +1,18 @@
+.table{
+    background-color:aqua;
+    color:white;
+    border-collapse:collapse;
+    text-align:center;
+    mARGIN:20PX;
+}
+
+td,th {
+    text-align:center;
+    padding:10px;
+    border:1px solid #dddddd
+}
+
+tr:nth-child(even) {
+    background-color:rgb(red, green, blue)
+}
+
